@@ -1,0 +1,7 @@
+C:\Users\tanulo\Desktop\Új mappa\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\tanulo\Desktop\Új mappa\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\tanulo\Desktop\Új mappa\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\tanulo\Desktop\Új mappa\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\tanulo\Desktop\Új mappa\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\Új mappa\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\tanulo\Desktop\Új mappa\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
